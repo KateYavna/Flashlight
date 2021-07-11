@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Flashlight</string>
+    <string name="btWhite">white</string>
+    <string name="btRed">red</string>
+    <string name="btBlue">blue</string>
+    <string name="btGreen">green</string>
+    <string name="btCyan">cyan</string>
+    <string name="btLightGrey">light grey</string>
+    <string name="btMagenta">magenta</string>
+
+</resources>
